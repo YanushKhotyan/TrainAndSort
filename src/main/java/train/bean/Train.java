@@ -1,7 +1,5 @@
 package train.bean;
 
-import train.bean.Date;
-
 /**
  * @author khotyan.y <br />
  * Copyright 2020 Ifuture Plc. All rights reserved.
